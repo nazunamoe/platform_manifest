@@ -441,7 +441,7 @@
   <project path="frameworks/base" name="frameworks_base" remote="ny" revision="NYLON" />
   <project path="packages/apps/XYSettings" name="packages_apps_XYSettings" remote="ny" revision="nazunamoe" />
   <project path="vendor/aosp" name="vendor_nylon" remote="ny" revision="NYLON" />
-  <project path="platform_manifest" name="platform_nylon" remote="ny" revision="NYLON" />
+  <project path="platform_manifest" name="platform_manifest" remote="ny" revision="NYLON" />
   <project path="build" name="android_build" remote="ny" revision="nylon">  </project>
      <copyfile src="core/root.mk" dest="Makefile" />
 </manifest>
